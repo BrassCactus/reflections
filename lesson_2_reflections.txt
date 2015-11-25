@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 It creates a .git file. You need it to keep/view changes.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It offers you a place to check yourself. Do you really want to submit at this time. Also you can add multiple files and commit them together instead of as separate commits, helping you to organize better all the files that may have been changed for the same issue or update.
